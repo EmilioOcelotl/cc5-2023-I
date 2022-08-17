@@ -17,7 +17,7 @@
   
 - [ ] Sesión 02
   
-  - Instalación y licencias 
+  - [Descarga](https://derivative.ca/download), Instalación y licencias 
     - Posibles problemas de controladores > https://forum.derivative.ca/t/solved-2021-38090-win11-vulkan-initialization-failed/232784
   - Programación gráfica ( también es posible usar Python )  
   - Interfaz, timeline, tiempo real/tiempo diferido y duraciones 
