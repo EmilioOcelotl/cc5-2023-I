@@ -1,4 +1,4 @@
-![portada](https://github.com/EmilioOcelotl/cc5-ct-2023-I/blob/main/IMG_5776.jpeg)
+![portada](https://github.com/EmilioOcelotl/cc5-2023-I/blob/main/IMG_5776.jpeg)
 
 # Código creativo 5: iluminación interactiva y render en tiempo real
 
